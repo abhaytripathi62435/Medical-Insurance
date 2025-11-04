@@ -127,4 +127,4 @@ plt.grid(True)
 plt.legend()
 st.pyplot(plt)
 
-streamlit run insurance_app.py
+
